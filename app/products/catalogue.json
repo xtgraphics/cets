@@ -1,0 +1,336 @@
+[
+  {
+    "id": 141,
+    "name": "Power Quality Meter",
+    "products": [
+      {
+        "pid": 1449,
+        "title": "iMeter 8",
+        "image": "/assets/catalogue/1449.png",
+        "content": "",
+        "subtitle": "Power Quality Meter"
+      },
+      {
+        "pid": 1448,
+        "title": "iMeter 7A",
+        "image": "/assets/catalogue/1448.png",
+        "content": "",
+        "subtitle": "Power Quality Meter"
+      },
+      {
+        "pid": 1447,
+        "title": "iMeter D7",
+        "image": "/assets/catalogue/1447.png",
+        "content": "",
+        "subtitle": "Power Quality Meter"
+      },
+      {
+        "pid": 1446,
+        "title": "iMeter 6",
+        "image": "/assets/catalogue/1446.png",
+        "content": "",
+        "subtitle": "Power Quality Meter"
+      },
+      {
+        "pid": 1445,
+        "title": "iMeter 5",
+        "image": "/assets/catalogue/1445.png",
+        "content": "",
+        "subtitle": "Power Quality Meter"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Panel Meter",
+    "products": [
+      {
+        "pid": 1444,
+        "title": "PMC-53A-E",
+        "image": "/assets/catalogue/1444.png",
+        "content": "",
+        "subtitle": "Ethernet Multifunction Meter"
+      },
+      {
+        "pid": 1443,
+        "title": "PMC-53A",
+        "image": "/assets/catalogue/1443.png",
+        "content": "",
+        "subtitle": "Intelligent Multifunction Meter"
+      },
+      {
+        "pid": 1442,
+        "title": "PMC-53M-A",
+        "image": "/assets/catalogue/1442.png",
+        "content": "",
+        "subtitle": "Intelligent Multifunction Meter"
+      },
+      {
+        "pid": 1441,
+        "title": "PMC-S963-C",
+        "image": "/assets/catalogue/1441.png",
+        "content": "",
+        "subtitle": "Intelligent Multifunction Meter"
+      },
+      {
+        "pid": 1440,
+        "title": "PMC-S963-E",
+        "image": "/assets/catalogue/1440.png",
+        "content": "",
+        "subtitle": "Intelligent Multifunction Meter"
+      },
+      {
+        "pid": 1439,
+        "title": "PMC-D726M (LCD)",
+        "image": "/assets/catalogue/1439.png",
+        "content": "",
+        "subtitle": "Multifunction Energy Meter"
+      },
+      {
+        "pid": 1438,
+        "title": "PMC-D726M (LED)",
+        "image": "/assets/catalogue/1438.png",
+        "content": "",
+        "subtitle": "Multifunction AC Energy Meter"
+      },
+      {
+        "pid": 1437,
+        "title": "PMC-D721MD",
+        "image": "/assets/catalogue/1437.png",
+        "content": "",
+        "subtitle": "DC Multifunction Meter"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "DIN Meter",
+    "products": [
+      {
+        "pid": 1436,
+        "title": "PMC-340-A6",
+        "image": "/assets/catalogue/1436.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      },
+      {
+        "pid": 1435,
+        "title": "PMC-340",
+        "image": "/assets/catalogue/1435.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      },
+      {
+        "pid": 1434,
+        "title": "PMC-350-C",
+        "image": "/assets/catalogue/1434.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      },
+      {
+        "pid": 1433,
+        "title": "PMC-352-C",
+        "image": "/assets/catalogue/1433.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      },
+      {
+        "pid": 1432,
+        "title": "PMC-352-D",
+        "image": "/assets/catalogue/1432.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      },
+      {
+        "pid": 1431,
+        "title": "PMC-220",
+        "image": "/assets/catalogue/1431.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      },
+      {
+        "pid": 1430,
+        "title": "PMC-230",
+        "image": "/assets/catalogue/1430.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      },
+      {
+        "pid": 1429,
+        "title": "PMC-518D",
+        "image": "/assets/catalogue/1429.png",
+        "content": "",
+        "subtitle": "DIN Meter"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Multi-circuit Monitor",
+    "products": [
+      {
+        "pid": 1421,
+        "title": "PMC-592",
+        "image": "/assets/catalogue/1421.png",
+        "content": "",
+        "subtitle": "Multi-Circuit High Accuracy Power Monitor"
+      },
+      {
+        "pid": 1420,
+        "title": "PMC-512-A",
+        "image": "/assets/catalogue/1420.png",
+        "content": "",
+        "subtitle": "AC Multi-circuit Power Monitor"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Gateway, Switch & Processor",
+    "products": [
+      {
+        "pid": 1428,
+        "title": "iSmartGate SE",
+        "image": "/assets/catalogue/1428.png",
+        "content": "",
+        "subtitle": "Intelligent Gateway"
+      },
+      {
+        "pid": 1427,
+        "title": "PMC-1302-3",
+        "image": "/assets/catalogue/1427.png",
+        "content": "",
+        "subtitle": "Ethernet Serial/LoRa Gateway"
+      },
+      {
+        "pid": 1426,
+        "title": "PMC-1304-3",
+        "image": "/assets/catalogue/1426.png",
+        "content": "",
+        "subtitle": "Ethernet Serial Gateway"
+      },
+      {
+        "pid": 1425,
+        "title": "PMC-2112",
+        "image": "/assets/catalogue/1425.png",
+        "content": "",
+        "subtitle": "Fiber Ethernet Switch"
+      },
+      {
+        "pid": 1424,
+        "title": "PMC-1202",
+        "image": "/assets/catalogue/1424.png",
+        "content": "",
+        "subtitle": "Ethernet Serial/LoRa Gateway"
+      },
+      {
+        "pid": 1423,
+        "title": "PMC-TS1",
+        "image": "/assets/catalogue/1423.png",
+        "content": "",
+        "subtitle": "Time Synchronization"
+      },
+      {
+        "pid": 1422,
+        "title": "ND65",
+        "image": "/assets/catalogue/1422.png",
+        "content": "",
+        "subtitle": "LoRaWAN Indoor Gateway"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Temperature & RH Monitor",
+    "products": [
+      {
+        "pid": 1832,
+        "title": "PMC-TH200",
+        "image": "/assets/catalogue/1832.png",
+        "content": "",
+        "subtitle": ""
+      },
+      {
+        "pid": 1419,
+        "title": "PMC-1302-3 & PMC-260X",
+        "image": "/assets/catalogue/1419.png",
+        "content": "",
+        "subtitle": "Temperature & RH Monitor"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Sensor",
+    "products": [
+      {
+        "pid": 1821,
+        "title": "CET LD Series",
+        "image": "/assets/catalogue/1821.png",
+        "content": "",
+        "subtitle": ""
+      },
+      {
+        "pid": 1828,
+        "title": "DPTX",
+        "image": "/assets/catalogue/1828.png",
+        "content": "",
+        "subtitle": ""
+      },
+      {
+        "pid": 1827,
+        "title": "PTX",
+        "image": "/assets/catalogue/1827.png",
+        "content": "",
+        "subtitle": ""
+      },
+      {
+        "pid": 1826,
+        "title": "STTX",
+        "image": "/assets/catalogue/1826.png",
+        "content": "",
+        "subtitle": ""
+      },
+      {
+        "pid": 1824,
+        "title": "TTX",
+        "image": "/assets/catalogue/1824.png",
+        "content": "",
+        "subtitle": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Motor Protection & Control",
+    "products": [
+      {
+        "pid": 1418,
+        "title": "PMC-550D",
+        "image": "/assets/catalogue/1418.png",
+        "content": "",
+        "subtitle": "Motor Protection & Control"
+      },
+      {
+        "pid": 1417,
+        "title": "PMC-550J",
+        "image": "/assets/catalogue/1417.png",
+        "content": "",
+        "subtitle": "Motor Protection & Control"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Transducer & Probe",
+    "products": [
+      {
+        "pid": 1416,
+        "title": "PMC-CT, PMC-SCCT, PMC-SCCP",
+        "image": "/assets/catalogue/1416.png",
+        "content": "",
+        "subtitle": ""
+      }
+    ]
+  }
+]

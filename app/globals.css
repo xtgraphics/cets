@@ -27,3 +27,5 @@
 @media(prefers-reduced-motion:reduce){.axtira-hero h1,.axtira-hero-intro{animation:none}.axtira-hero-media:hover .axtira-factory,.axtira-device:hover{transform:none}}
 /* Crisp generated editorial photography, one unique asset per placement. */
 .website .system-view img{object-fit:cover;mix-blend-mode:normal;width:100%;height:100%;min-height:280px;max-height:none}.website:not(.modern) .system-view{height:300px;overflow:hidden}.website:not(.modern) .product-stage img{mix-blend-mode:normal;width:100%;height:280px;object-fit:cover}.modern-range-photo img{object-fit:cover;max-height:650px}.axtira-device img{mix-blend-mode:normal;object-fit:cover}.modern-news-photo img{object-fit:cover}.modern-contact-photo{filter:none;opacity:.7}.modern-contact-overlay{background:linear-gradient(90deg,#111e,#1119)}
+
+.website .products .product-icon{color:#00A859}

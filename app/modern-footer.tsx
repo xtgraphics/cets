@@ -1,7 +1,59 @@
-import {ArrowUpRight} from 'lucide-react';
+function LinkedInIcon() {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path
+        fill="currentColor"
+        d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.063 2.063 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0z"
+      />
+    </svg>
+  );
+}
 
-const base='https://global.cet-electric.com/sg';
+export default function ModernFooter(_: {
+  note?: string;
+  sourceHref?: string;
+}) {
+  const navigation = [
+    ['Solutions', '/solutions'],
+    ['Products', '/products'],
+    ['Resources', '/resources'],
+    ['News', '/news'],
+    ['About', '/about'],
+    ['Contact', '/contact'],
+  ];
 
-export default function ModernFooter({note='Independent redesign concept · Company information adapted from CET Singapore.'}:{note?:string}){
- return <footer className="catalogue-footer"><div className="footer-brand"><img src="/assets/cets-logo.png" alt="CET"/><p>Making electric energy safer,<br/>more reliable and more efficient.</p></div><div><strong>CET Singapore</strong><a href="tel:+6566697158">+65 6669 7158</a><a href={base+'/CustomerSupport'}>Contact <ArrowUpRight size={16}/></a></div><div><strong>Explore</strong><a href="/">Home</a><a href="/solutions">Solutions</a><a href="/products">Products</a><a href="/about">About</a><a href={base+'/News'}>News</a></div><div className="footer-bottom"><span>{note}</span><a href="https://www.cetsingapore.com/about/">Original CET Singapore page ↗</a></div></footer>
+  return (
+    <footer className="catalogue-footer simple-footer">
+      <div className="compact-footer-row">
+        <div className="compact-footer-brand">
+          <a href="/" aria-label="CET homepage" className="compact-footer-logo">
+            <img src="/assets/cets-logo.png" alt="CET" />
+          </a>
+        </div>
+
+        <nav aria-label="Footer navigation" className="compact-footer-nav">
+          {navigation.map(([label, href]) => (
+            <a href={href} key={label}>
+              {label}
+            </a>
+          ))}
+        </nav>
+
+        <div className="compact-footer-socials">
+          <a
+            href="https://www.linkedin.com/in/cetsingapore"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="CET Singapore on LinkedIn"
+          >
+            <LinkedInIcon />
+          </a>
+        </div>
+      </div>
+
+      <div className="footer-bottom simple-footer-bottom">
+        <span>© {new Date().getFullYear()} CET Singapore Pte. Ltd.</span>
+      </div>
+    </footer>
+  );
 }
